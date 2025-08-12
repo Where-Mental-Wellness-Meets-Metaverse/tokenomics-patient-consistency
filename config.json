@@ -1,0 +1,20 @@
+{
+  "tiers_percent": [0, 3, 6, 9],
+  "thresholds_tokens": [0, 3, 6, 12],
+  "cap_monthly_tokens_per_user": 8,
+  "token_per_session": 1,
+  "sessions_required_per_month_for_reward": 3,
+  "no_show_penalty_percent": 25,
+  "decay_k": 0.35,
+  "treasury_margin_percent": 55,
+  "discount_cost_per_session_usd": 900,
+  "revenue_per_session_usd": 900,
+  "simulation": {
+    "months": 12,
+    "cohorts": {
+      "adherent": { "size": 0.5, "attendance_rate": 0.9, "no_show_rate": 0.03 },
+      "irregular": { "size": 0.3, "attendance_rate": 0.6, "no_show_rate": 0.10 },
+      "attrition": { "size": 0.2, "attendance_rate": 0.3, "no_show_rate": 0.20 }
+    }
+  }
+}
