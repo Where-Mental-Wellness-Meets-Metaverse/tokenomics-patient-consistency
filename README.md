@@ -1,4 +1,4 @@
-# Patient Participation Tokenomics (Non-PHI)
+# Participation Tokenomics (Non-PHI)
 
 **Rights Reserved, Unlicensed**
 
