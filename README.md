@@ -12,7 +12,7 @@ The framework demonstrates how **streak-based rewards, inactivity penalties, and
 ---
 
 ## Purpose
-- Encourage patients to attend and engage consistently in approved health sessions.  
+- Encourage participants to attend and engage consistently in health sessions.  
 - Reward healthy behavior streaks through milestone-based NFTs.  
 - Protect program sustainability with conservative token issuance and decay rules.  
 - Preserve privacy by keeping PHI completely off-chain.  
